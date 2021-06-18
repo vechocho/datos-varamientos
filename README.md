@@ -6,6 +6,43 @@ En el año 2018, la [Autoridad Ambiental Nacional](https://www.ambiente.gob.ec) 
 
 Este repositorio busca mantener el respaldo de los datos y el registro multimedia asociado a las observaciones publicada en GBIF a traves del IPT. El dataset se epdue descargar en:
 
+
+## Vocabulario controlado
+Se describe el vocabulario controlado dentro de la base dedatos, este se basa en la fiha de varamientos dónde se registra la información en campo.
+
+### habitat
+
+Hace refrencia al lugar de varamiento, este peude ser:
+- Altamar
+- Orilla
+- Playa
+- Zona Rocosa
+
+### occurrenceRemarks
+- vivo
+- muerto
+
+### lifeStage
+- Cría
+- Juvenil
+- Adulto
+
+### sex
+- macho
+- hembra
+
+### eventRemarks
+Hace referencia a la descripción del índice de estimación de condición del cadáver (autolisis), esta puede ser:
+
+- Muy fresco: recién muerto
+- Fresco: buenas condiciones para la necropsia, muerto hace pocas horas
+- Autolisis incipiente: con cambios de color (enrojecimiento) en piel clara, timpanización ligera de la carcasa
+- Autolisis avanzada: alteración color y consistencia de órganos
+- Órganos en putrefacción: esqueleto visible
+
+
+
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
