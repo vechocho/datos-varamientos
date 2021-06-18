@@ -46,13 +46,16 @@ Hace referencia a la descripción del índice de estimación de condición del c
 Se describe el vocabulario controlado dentro de la base dedatos, este se basa en la fiha de varamientos dónde se registra la información en campo.
 
 ### measurementType
+Para mamíferos (grandes, cetáceos menores y pinípedos)
 
+![alt text](https://github.com/vechocho/datos-varamientos/blob/main/images/medidas_morfo1.png "Medidas morfométricas")
 
+- **MS-EC:** [1] Mandíbula superior a escotadura caudal
+- **MS-CA:** [2] Mandíbula superior al centro del ano
+- **MS-AG:** [3] Mandíbula superior a abertura genital
+- **MS-HO:** [4] Mandíbula superior hasta ombligo
+- **LAP-PA:** [12] Longitud de la aleta pectoral (de punta a axila)
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 ## Referencias
 
