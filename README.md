@@ -51,7 +51,7 @@ Se describe el vocabulario controlado dentro de la base dedatos, este se basa en
 ### measurementType
 #### Para mamíferos (grandes, cetáceos menores y pinípedos)
 
-![alt text](https://github.com/vechocho/datos-varamientos/blob/main/images/medidas_morfo1.png "Medidas morfométricas")
+![alt text](images/medidas_morfo1.png "Medidas morfométricas")
 
 - **MS-EC:** [1] Mandíbula superior a escotadura caudal
 - **MS-CA:** [2] Mandíbula superior al centro del ano
@@ -61,7 +61,7 @@ Se describe el vocabulario controlado dentro de la base dedatos, este se basa en
 
 #### Para tortugas
 
-![alt text](https://github.com/vechocho/datos-varamientos/blob/main/images/medidas_tortugas.png "Medidas morfométricas")
+![alt text](images/medidas_tortugas.png "Medidas morfométricas")
 
 
 ## Referencias
